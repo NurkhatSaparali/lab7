@@ -1,4 +1,4 @@
-#python c:/Users/Nurhat/OneDrive/Desktop/lab7/1.py
+
 import pygame
 import time
 pygame.init()
