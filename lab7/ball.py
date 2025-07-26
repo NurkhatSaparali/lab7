@@ -1,4 +1,3 @@
-#python c:/Users/Nurhat/OneDrive/Desktop/lab7/3.py
 import pygame
 pygame.init()
 width,height = 500, 500
