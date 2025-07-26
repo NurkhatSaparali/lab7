@@ -1,4 +1,3 @@
-#python c:/Users/Nurhat/OneDrive/Desktop/lab7/2.py
 import pygame
 import os
 pygame.init()
